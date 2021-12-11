@@ -6,4 +6,6 @@ In other words, while the connector provides 4 pins - most commonly found coils 
 
 In systems where this IGF signal is not produced by the coil itself, it is possible to create a hardware emulator that will come close to replicating the true IGF signal.
 
-The purpose of this is to allow the engine to run, as opposed to being immediately shut down by the ECU after starting (once the ECU detects that the IGF signal has not arrived for 6-8 engine ignition cycles). 
+The purpose of this is to allow the engine to run, as opposed to being immediately shut down by the ECU after starting (once the ECU detects that the IGF signal has not arrived for 6-8 engine ignition cycles).
+
+The initial prototype is done for the SXE10 (Altezza RS200) platform, powered by 5th-Gen 3S-GE engine (Yamaha-tuned). 
