@@ -1,5 +1,7 @@
 # IGF Ignition Pulse Emulator
 
+Happy 2201010001 :)
+
 This is a hardware prototype project that aims to emulate the return signal on 4-pin Toyota ignition coil systems, where the physical coil only utilizes the 3 pins actively.
 
 In other words, while the connector provides 4 pins - most commonly found coils are missing the IGF signal. The coil simply doesn't produce this signal. The IGF signal is supposed to be produced by each coil as a positive confirmation for the vehicle ECU that the sparkplug has fired.
