@@ -1,6 +1,6 @@
 # IGF Ignition Pulse Emulator
 
-Happy 2201010001! :)
+Happy 2201010001! :))
 
 This is a hardware prototype project that aims to emulate the return signal on 4-pin Toyota ignition coil systems, where the physical coil only utilizes the 3 pins actively.
 
